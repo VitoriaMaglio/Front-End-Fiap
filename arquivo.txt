@@ -1,3 +1,5 @@
 aula 1
 Primeira alteração.
 Alteração.
+O professor Alexandre Carlos, que ensina a matéria de Front-End Design Engineering na faculdade Fiap, tem 49 anos, é casado e tem dois filho. Ele tem dois cachorros, torce para o Corinthians e gosta muito dos seus alunos. É alto, usa óculos e é careca.
+ 
