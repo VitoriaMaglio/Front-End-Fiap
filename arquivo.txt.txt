@@ -3,3 +3,14 @@ Primeira alteração.
 Alteração.
 O professor Alexandre Carlos, que ensina a matéria de Front-End Design Engineering na faculdade Fiap, tem 49 anos, é casado e tem dois filho. Ele tem dois cachorros, torce para o Corinthians e gosta muito dos seus alunos. É alto, usa óculos e é careca.
  
+#README é um markdown 
+git diff "arquivo" mostra as modificações do arquivo
+git checkout "arquivo" volta para a ultima versão do arquivo
+git reset HEAD volta a ser modified e as alterações ficam empacotadas para fazer git add
+git commit -am -m""
+-am significa fazer git commit e git ad em um só comando
+
+
+git reset -soft (hash) volta o commit, mas arquivos continuam prontos para serem commitados dnv
+git reset -mixed(hash) volta o commit mas os arquvos saem da área de staged
+git reset - hard(hash) volta o commit tambem exclui todas as alterações
